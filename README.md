@@ -5,6 +5,7 @@
 
 ## Badges
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/504678a1-de2b-4f30-a204-6fdf0a280ebb/deploy-status)](https://app.netlify.com/sites/nordstrom-clone-245a2a/deploys)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/yash9444/nordstrom)
 
 Nordstrom, is an American luxury department store chain headquartered in Seattle, Washington and founded by John W. Nordstrom and Carl F. Wallin in 1901. The original Wallin & Nordstrom store operated exclusively as a shoe store, and a second Nordstrom's shoe store opened in 1923. The growing Nordstrom Best chain began selling clothing in 1963, and became the Nordstrom full-line retailer that presently exists by 1971. The company founded its off-price Nordstrom Rack division in 1973, and grew both full-line and off-price divisions throughout the United States in the following years before expanding into Canada in 2014 and Puerto Rico from 2015 until 2020.
@@ -76,7 +77,7 @@ Step :- 2
 
 ![Footer](https://user-images.githubusercontent.com/101327752/167402345-00739e39-d513-465f-8876-ae9d8538c9c0.png)
 ## Demo
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/504678a1-de2b-4f30-a204-6fdf0a280ebb/deploy-status)](https://app.netlify.com/sites/nordstrom-clone-245a2a/deploys)
  [Demo link here](https://whimsical-eclair-43fec4.netlify.app/) 
 
 
