@@ -1,4 +1,4 @@
-## NORDSTROM
+## NORDSTROM ![Badge](https://visitor-counter-badge.vercel.app/api/Soumya048/nordstrom/)
 
 ![Logo](https://play-lh.googleusercontent.com/-VMFwO9byWAoA7pV5pyuWHvkDTpFpOKh9_nuhG2-nZAcbDt5QWJVwD739im95-tTpbc)
 
